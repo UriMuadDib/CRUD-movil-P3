@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721625703097",
+    "project_id": "crudprueba-2ebde",
+    "storage_bucket": "crudprueba-2ebde.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721625703097:android:e3bc408d52a426971a7168",
+        "android_client_info": {
+          "package_name": "com.equipo6.crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrGznMAiuO_bG2evi8SV4VvZsw7HbjFrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
